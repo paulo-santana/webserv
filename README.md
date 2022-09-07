@@ -32,7 +32,7 @@ For the bonus we have to support [cookies](https://en.wikipedia.org/wiki/HTTP_co
 **Follow the steps below**
 ```bash
 # Clone the project and access the folder
-git clone https://github.com/wwwwelton/webserv && cd webserv/
+git clone https://github.com/VLN37/webserv && cd webserv/
 
 # Run make so you can build the program and install dependencies
 # the dep directive asks for sudo permissions in order to install php-cgi
