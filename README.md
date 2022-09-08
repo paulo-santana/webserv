@@ -13,9 +13,6 @@ Using [I/O Multiplexing](https://notes.shichao.io/unp/ch6/) the [Kernel](https:/
 For the bonus we have to support [cookies](https://en.wikipedia.org/wiki/HTTP_cookie), [session](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#HTTP_session) management and handle multiple [CGI](https://en.wikipedia.org/wiki/Common_Gateway_Interface).
 
 ### Availability
-![alt text](./images/preview_siege_1.gif)
-
-
 https://user-images.githubusercontent.com/7424845/189009210-54ffb615-9400-47cb-b067-76a58b4d575c.mp4
 
 
