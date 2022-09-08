@@ -15,9 +15,6 @@ For the bonus we have to support [cookies](https://en.wikipedia.org/wiki/HTTP_co
 ### Availability
 ![alt text](./images/preview_siege_1.gif)
 
-### Badge
-<img src="./images/webservm.png" width="150" height="150"/>
-
 #### Skills
 - Network & system administration
 - Unix
