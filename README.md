@@ -13,7 +13,7 @@ Using [I/O Multiplexing](https://notes.shichao.io/unp/ch6/) the [Kernel](https:/
 For the bonus we have to support [cookies](https://en.wikipedia.org/wiki/HTTP_cookie), [session](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#HTTP_session) management and handle multiple [CGI](https://en.wikipedia.org/wiki/Common_Gateway_Interface).
 
 ### Availability
-![alt text](./images/preview_siege_1.gif)
+![alt text](./images/preview_siege_1.mp4)
 
 ### Badge
 <img src="./images/webservm.png" width="150" height="150"/>
@@ -32,7 +32,7 @@ For the bonus we have to support [cookies](https://en.wikipedia.org/wiki/HTTP_co
 **Follow the steps below**
 ```bash
 # Clone the project and access the folder
-git clone https://github.com/VLN37/webserv && cd webserv/
+git clone https://github.com/paulo-santana/webserv && cd webserv/
 
 # Run make so you can build the program and install dependencies
 # the dep directive asks for sudo permissions in order to install php-cgi
